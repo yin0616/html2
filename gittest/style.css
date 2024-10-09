@@ -1,0 +1,6 @@
+﻿body > img[data-autumn] {
+	position:absolute;
+}
+body {
+	overflow:hidden;
+}
